@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+.container {
+    background-color: white;
+    padding: 5% 5%;
+    margin: 0% auto 0%;
+    height: 100%;
+}
+
+.login-form {
+    margin: auto 10%;
+}
+
+.sort-by {
+    clear: both;
+    margin: 3em;
+}
+
+.menu-form {
+    margin: auto 10%;
+}
+
+.product-card {
+    margin: 2em;
+}
